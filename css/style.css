@@ -212,6 +212,15 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+.resume-arrow {
+    height: 100px !important;
+    background-repeat: no-repeat !important;
+    background-position: 67% 52% !important;
+    background-size: 300px !important;
+    margin-top: 10px;
+    opacity: 85%;
+}
+
 #fh5co-header .display-tc .fh5co-social-icons li a,
 .fh5co-cover .display-tc .fh5co-social-icons li a {
   color: #fff;
